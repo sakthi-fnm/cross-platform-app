@@ -42,5 +42,5 @@ npx expo start
 
 This will start up expo development server to wtch and build the code. Follow the instruction in the console to proceed
 
-
+### Good Luck & Have a Fun!
 
