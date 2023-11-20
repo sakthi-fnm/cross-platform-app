@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
+      <Text>Welcome to Towpath Mobile App Development. This is a Reactnative app base for you to get started!</Text>
       <StatusBar style="auto" />
     </View>
   );
